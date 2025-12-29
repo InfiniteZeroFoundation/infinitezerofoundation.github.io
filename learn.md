@@ -1,70 +1,93 @@
 ---
 title: Learn  
 layout: page  
-description: Discover how DIN powers decentralized AI and data collaboration through sovereign infrastructure.  
-intro_image_hide_on_mobile: true  
+description: Discover how InfiniteZero is empowering an AI ecosystem for the future of public goods.  
+intro_image_hide_on_mobile: true
 ---
 
-# Learn About DIN
+# Welcome to InfiniteZero
 
-**DIN** is a **peer-to-peer federated learning (FL) blockchain protocol** that serves as **infrastructure for EVM-compatible blockchain ecosystems**. It powers **open-AI ecosystems** and **sovereign data collaboration** by enabling secure coordination across distributed data sources — without ever moving or exposing the data itself.
-
-Built to seamlessly integrate with **EVM-compatible blockchain ecosystems**, DIN allows decentralized applications (dApps) and smart contracts to tap into federated learning capabilities, enabling secure, transparent, and fair AI collaboration directly on the blockchain. Whether you're training models, contributing data, or building decentralized applications, DIN provides the foundational infrastructure to ensure **data sovereignty** and secure participation — while keeping control where it belongs: with the data owner.
-
----
-
-### Why It Matters
-
-In today’s centralized systems, data often has to be pooled, transferred, or handed over to third parties. This breaks trust and compromises privacy. DIN flips the model:
-
-- 🔐 **Sovereign Data**: Data owners maintain full control of their assets at all times.
-- 🤝 **True Peer-to-Peer Collaboration**: No central servers, no gatekeepers — just direct, secure interaction.
-- 💸 **Built-in Monetization**: Contributors are rewarded with **stablecoins** for participation — no intermediaries required.
-
-By decentralizing access and rewards, DIN opens the door to **global collaboration without compromising privacy or ownership**.
+At InfiniteZero, we are building a **trustless**, **privacy-preserving** AI infrastructure that's **owned and governed by the community**. Our goal is to create an ecosystem where **AI benefits everyone**, fostering collaboration and innovation on a global scale.
 
 ---
 
-### How It Works
+## What is InfiniteZero?
 
-> **DIN connects AI developers and data owners in a decentralized, trustless network.**
+InfiniteZero Foundation is a **non-profit** committed to creating an AI infrastructure that empowers **developers**, **applications**, and **users**. By utilizing Ethereum-based **Layer 2 networks**, we are making AI more **affordable**, **accessible**, and **privacy-friendly** for all.
 
-#### 🧠 For AI Developers
-- Train models directly on data **where it lives** — no transfers, no exposure.
-- Access diverse, high-quality datasets securely through the protocol.
-- Receive model updates and evaluations **on-chain or through secure enclaves**.
-
-#### 🗂️ For Data Owners
-- Maintain full control of your data, never uploading it or handing it over.
-- Choose when and how your data is used, with clear auditability.
-- Earn **stablecoin rewards** for enabling model training on your data.
-
-#### ⚙️ Visual Overview
-
-![DIN Protocol Overview](https://DIN.github.io/images/illustrations/Figure%201.png)
-
-**1. Developer submits model → 2. Protocol coordinates training → 3. Data stays in place → 4. Updates aggregated securely → 5. Rewards distributed.
-**
----
-
-### Key Differentiators
-
-What sets DIN apart from other AI infrastructure projects?
-
-- **No Data Movement**: Data remains local and sovereign — not even temporarily transferred.
-- **Fully Decentralized Protocol**: No central hubs or federated managers; coordination is on-chain and P2P.
-- **Fair, Transparent Rewards**: Built-in incentives using stablecoins — aligned with actual contributions.
-- **Composable Infrastructure**: Open architecture for integration into other decentralized systems or apps.
-- **Privacy by Design**: Cryptographic guarantees like **secure aggregation** and **privacy preservation** for data-regulation compliance.
+### Key Features:
+- **Community-Owned**: AI is built by the community, for the community, with no central ownership.
+- **Privacy-Preserving**: Your data stays secure and private, only encrypted patterns are shared.
+- **Affordable**: Say goodbye to massive infrastructure costs—AI runs on local devices.
 
 ---
 
-### Ready to Build the Future?
+## For Developers 🛠️
 
-Join the growing community shaping decentralized AI:
+### Create AI-Powered Products Without Compromise
 
-- 📚 [Explore the Docs](https://DIN.github.io/docs/)
-- 💻 [Contribute on GitHub](https://github.com/DIN)
-- 🌐 [Apply to Join the Network](https://DIN.github.io/contact/)
+With InfiniteZero, you can easily integrate AI into your applications without the burden of expensive infrastructure. Whether you’re building open-source models or proprietary AI systems, we provide an open platform that lets you focus on innovation, while we handle the infrastructure.
 
-Together, we’re creating a future where data sovereignty meets scalable intelligence.
+### Key Benefits:
+- **No Massive Data Centers**: No need for huge storage or GPU farms.
+- **Monetize Development**: Earn revenue through network fees whenever others use your models.
+- **Privacy by Design**: Data stays on the user's device, keeping their privacy intact.
+
+[Start Building](#) | [Monetize Your Models](#)
+
+---
+
+## For Users 💻
+
+### Your Data, Your Control
+
+When you use apps powered by InfiniteZero, your data remains **local** and **private**. You contribute to improving AI models by simply using the apps you already love. Plus, you can **earn rewards** for helping train proprietary models!
+
+### How It Works:
+- **Data Stays Local**: AI is trained directly on your device, so you maintain full control.
+- **Earn Rewards**: Receive USDC rewards for contributing to proprietary models.
+- **Better App Experiences**: Get smarter features and more personalized suggestions without compromising privacy.
+
+[Join the Movement](#) | [Learn More](#)
+
+---
+
+## Real-World Impact 🌱
+
+InfiniteZero is already changing the way AI works across industries. Take the **Open-Platform Fitness Ecosystem** as an example, where biometric data (like sleep patterns and heart rate) is used to train open-source AI models—**without raw data ever leaving the device**.
+
+This approach not only preserves privacy but also fosters collaboration among users and developers, creating a thriving **open-source AI ecosystem**.
+
+---
+
+## Why Choose InfiniteZero?
+
+### **Sustainable**: 
+With no reliance on massive centralized infrastructure, InfiniteZero’s approach scales easily while minimizing environmental impact.
+
+### **Private**: 
+Your data stays on your device. Only encrypted patterns are shared, ensuring privacy is maintained at all times.
+
+### **Inclusive**: 
+Whether you're a developer, user, or community member, InfiniteZero is designed to be a **commons** for all. We are building an AI ecosystem where everyone can participate, contribute, and benefit.
+
+---
+
+## Join Us in Shaping the Future
+
+We believe in a future where **AI benefits everyone**—from users to developers and beyond. InfiniteZero is more than just technology; it's a movement to build an AI infrastructure that is open, accessible, and serves **the public good**.
+
+Together, we are creating a **trustless, privacy-first AI economy** for the **people**.
+
+---
+
+**Get Involved**  
+- **For Developers**: [Documentation](#) | [API Reference](#)  
+- **For Users**: [Download Apps](#)  
+- **For Validators**: [Learn More](#)  
+- **Contact**: [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
+
+---
+
+© 2025 InfiniteZero Foundation 🌱  
+Building a more inclusive AI ecosystem for the public good.
