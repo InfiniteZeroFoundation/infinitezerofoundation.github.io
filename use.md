@@ -1,61 +1,63 @@
 ---
 title: Use  
 layout: page  
-description: Learn how to use DIN to integrate decentralized federated learning with EVM-compatible blockchain ecosystems, ensuring privacy-preserving AI training and data sovereignty.  
-intro_image_hide_on_mobile: true  
+description: "Discover how you can benefit from the InfiniteZero network by using privacy-preserving AI-powered applications."  
+intro_image_hide_on_mobile: true
 ---
 
-# How to Use DIN
+# How to Use InfiniteZero
 
-**DIN** is a decentralized federated learning protocol that integrates with **EVM-compatible blockchain ecosystems**. It allows you to securely train AI models and manage data in a sovereign, privacy-preserving manner. Here’s how you can use it:
-
----
-
-### For Blockchain Ecosystem Managers
-
-As a manager of a blockchain ecosystem, you can quickly integrate DIN to enable decentralized AI collaboration:
-
-- **Integrate Federated Learning**: Add DIN’s protocol to support federated learning within your blockchain ecosystem.
-- **Enable Data Sovereignty**: Ensure that data never leaves the owner’s control while still participating in AI training.
-
-**Get Started**:  
-1. Integrate DIN via smart contracts.
-2. Reward participants for their contributions using stablecoins.
+InfiniteZero is designed to empower **users** with privacy-preserving AI applications that give you full control over your data. Whether you’re using an app or contributing to AI model training, the InfiniteZero network ensures that your personal information remains **private** and **secure**.
 
 ---
 
-### For AI Developers
+## Privacy-First AI
 
-DIN lets AI developers securely train models on distributed datasets, with full control over data privacy.
+At InfiniteZero, **your data stays with you**. The AI models are trained directly on your device, so sensitive information never leaves your control. Only **encrypted patterns** are shared to help improve AI models, ensuring that your privacy is always protected.
 
-- **Privacy-Preserving AI**: Train models without transferring or exposing data.
-- **Decentralized Training**: Collaborate with others without compromising data sovereignty.
-
-**Get Started**:  
-1. Use DIN’s infrastructure to securely train your AI models.
-2. Integrate rewards for data contributions.
+### Key Benefits for Users:
+- **Complete Privacy**: Data stays local on your device, ensuring your privacy is never compromised.
+- **Enhanced AI Services**: By contributing to AI model training, you help improve the services you use daily, like personalized recommendations or smarter features.
+- **Earn Rewards**: Contribute your data to proprietary models and earn **USDC stablecoin rewards** for your contributions.
 
 ---
 
-### For Data Owners
+## How It Works
 
-Maintain full control over your data while participating in federated learning and receiving rewards.
+Using InfiniteZero-powered apps is simple, and your involvement helps improve AI models while keeping your data safe.
 
-- **Data Ownership**: Never give up control of your data.
-- **Earn Rewards**: Get paid in stablecoins for your data contributions.
+### 1. **Download an App Powered by InfiniteZero**  
+Start using applications that leverage the InfiniteZero network for AI-powered features. These apps are designed to respect your privacy while enhancing your experience.
 
-**Get Started**:  
-1. Choose how and when your data is used.
-2. Participate in model training securely.
+### 2. **Contribute to Model Training**  
+By using these apps, you’re actively helping improve AI models. The data generated through your usage is used to train models, but only **encrypted patterns** are shared.
 
----
-
-### Example Use Case: Healthcare Ecosystem
-
-Imagine a healthcare system where personal health data stays within personal data stores (PDSs) but still contributes to decentralized AI training. Participants are rewarded with stablecoins.
+### 3. **Earn Rewards for Your Contribution**  
+When you opt into contributing data for **proprietary AI models**, you can earn **USDC rewards** for your participation. If you contribute to open-source models, only a small network fee is applied, ensuring fairness and transparency.
 
 ---
 
-Ready to get started?  
-- 📚 [Explore the Docs](https://DIN.github.io/docs/)  
-- 🌐 [Join the Network](https://DIN.github.io/contact/)  
+## Real-World Use Cases
+
+InfiniteZero’s ecosystem is already benefiting users in various industries. For example, in the **fitness and health sector**, you can use wearables or apps to track your health data (like heart rate, sleep patterns, and movement). This data is then used to improve AI-driven insights and recommendations, all while preserving your privacy.
+
+### Example:
+- **Fitness Apps**: Contribute biometric data for AI model training without exposing sensitive health information. Enjoy better app features, like personalized workout plans or health optimization tips, based on the AI’s learning.
+
+---
+
+## Join the Movement
+
+By using applications on the InfiniteZero network, you’re helping create a better future for AI—one that prioritizes **privacy**, **security**, and **user empowerment**.
+
+### **Get Started**  
+- Download apps powered by InfiniteZero  
+- Contribute your data securely to help improve AI models  
+- Earn rewards while preserving your privacy  
+
+Together, we are building a more ethical and inclusive AI ecosystem.
+
+---
+
+© 2025 InfiniteZero Foundation 🌱  
+Empowering users with privacy-first, decentralized AI.
