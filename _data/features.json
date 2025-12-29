@@ -1,7 +1,7 @@
 [
   {
-    "title": "Data Ownership",
-    "description": "Enables data ecosystems to maintain full control over their data within a secure, decentralized infrastructure.",
+    "title": "Privacy by Design",
+    "description": "InfiniteZero ensures that your data remains private by processing it locally on your device. Only encrypted patterns are shared to improve AI models, ensuring that your sensitive information never leaves your control.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Decentralized FL",
-    "description": "Transforms infrastructure with a lightweight protocol into a secure, scalable, trustless peer-to-peer FL network for model updates.",
+    "title": "Community-Owned Infrastructure",
+    "description": "At the heart of InfiniteZero is a decentralized network that is owned and governed by the community. No central authority controls the platform, ensuring transparency, fairness, and collective decision-making.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Direct Rewards",
-    "description": "Supports peer-to-peer data monetization within ecosystems, removing intermediaries and allowing direct rewards.",
+    "title": "Scalable AI for Everyone",
+    "description": "InfiniteZero uses lightweight, edge-optimized models that allow AI training to happen on everyday devices like smartphones, laptops, and even Raspberry Pi. This approach makes AI more accessible, affordable, and scalable.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
