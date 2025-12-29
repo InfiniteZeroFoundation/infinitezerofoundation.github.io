@@ -26,8 +26,8 @@ The InfiniteZero SDK makes it easy to integrate powerful AI capabilities into yo
 
 ## Key Features for Developers
 
-### 1. **Monetize Your Models**  
-Developers can earn revenue through network fees when their AI models are used for training on the InfiniteZero network. Every time an AI model is trained through your app, you receive a share of the network fees.
+### 1. **Decentralized AI Model Training**  
+By building on InfiniteZero, developers can create applications that enable users to contribute their data for AI model training. This decentralized model eliminates the need for centralized infrastructure while providing a more scalable and ethical approach to AI development.
 
 ### 2. **Global Collaboration**  
 Join a global community of developers working on privacy-focused AI solutions. With access to a growing library of open-source models and the ability to contribute your own, InfiniteZero fosters a collaborative environment for innovation.
