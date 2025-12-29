@@ -1,157 +1,61 @@
 ---
 title: Roadmap  
 layout: page  
-description: "This page provides a high-level roadmap, outlining key milestones and long-term performance goals. It serves as a guiding framework for the development of our technology, with a focus on ambitious, excellence-driven targets for the future."
-intro_image_hide_on_mobile: true  
+description: "Explore the exciting journey ahead for InfiniteZero as we work towards building a trustless, privacy-first AI ecosystem."  
+intro_image_hide_on_mobile: true
 ---
 
-# DIN Roadmap 🚀
+# InfiniteZero Roadmap
 
-This living roadmap outlines the strategic phases of DIN, focusing on decentralized AI infrastructure, secure collaboration, and community-driven innovation. Each phase includes specific timelines, deliverables, and success metrics to ensure accountability and transparency. 
+At InfiniteZero, we're committed to delivering on our vision of a **trustless**, **privacy-preserving** AI infrastructure that is owned and governed by the community. Our roadmap outlines the key milestones as we continue to build, test, and launch the InfiniteZero network. 
 
-## 🗓️ DIN Timeline (Q1 2024 – Q2 2026)
-**Q1 2024** [█████████] Oxford CS Department: Blockchain-FL Protocol Research  
-**Q2 2024** [█████████] Prototype & Simulation Experiments Released  
-**Q3 2024** [█████████] Whitepaper Release & Publications Published  
-**Q4 2024** [█████████] Academic & Industry Engagement & Validation  
-**Q1 2025** [█████████] Decentralized Team & Early Collaborations | Cosmos Institute  
-**Q2 2025** [▒▒▒▒▒▒▒▒▒▒▒▒] PoC Development | EVM-Ecosystem Integration  
-**Q3 2025** [░░░░░░░░░░░░] Testnet Development | Community Building  
-**Q4 2025** [░░░░░░░░░░░░] Advanced Testnet | Security Audits  
-**Q1 2026** [░░░░░░░░░░░░] TGE Preparation | Mainnet Launch  
-**Q2 2026** [░░░░░░░░░░░░] DAO Governance | Enterprise Expansion  
-
-**Legend:**  [████] Complete [▒▒▒▒] In Progress [░░░░] Planned
+We're just getting started, and we have exciting plans ahead as we approach each phase of development.
 
 ---
 
-## 🏗️ Phase 1: Foundation & Initial Development (Q1 2024 – Q2 2025)
+## Roadmap Overview
 
-### 📄 Whitepaper Release (Completed Aug 2024)
-- Refined and expanded the Whitepaper to reflect the latest advancements in the DIN protocol (✓)
-- Published technical architecture documentation and governance framework (✓)
+### **Devnet - March 2026**
+Our journey begins with the **Devnet** phase, where we’ll begin testing the core infrastructure of the InfiniteZero network. This will be a closed network for developers and early contributors to experiment with, helping us refine the technology before going public.
 
-### 🧪 Prototype & Simulation (Completed Mar 2024)
-- Live Prototype Launched with core rewards logic [Prototype on GitHub](https://github.com/DIN/DIN-Prototype) (✓)
-- Performance simulations at Oxford ARC meet 99% of decentralized operations benchmarks [Simulation Code](https://github.com/DIN/DIN-Protocol-Simulator) (✓) 
+- **Goals**: 
+  - Launch Devnet for internal testing
+  - Validate core features and functionality
+  - Optimize performance and scalability
 
-### 📅 Strategic Academic & Industry Engagement (2024–2025)
+### **Testnet - Mid 2026**
+Once the Devnet phase has concluded, we’ll launch **Testnet**. During this phase, we’ll invite the wider community, including developers and users, to help us test the network in real-world conditions. The focus will be on **security**, **scalability**, and ensuring that the **privacy-preserving** features work as intended.
 
-| 📅 Event | 🗣️ Talk Title / Role | 🔗 Links | 🏷️ Sponsored By |
-|---------|------------------------|----------|------------------|
-| **RDI Berkeley (Aug '24)** | *Decentralized ML Training at Scale* | [RDI Berkeley](https://rdi.berkeley.edu/SBC2025/) | Oxford CS Department |
-| **ETHDenver (Mar '25)** | *Incentive Mechanisms for FL* | [Event](https://www.ethdenver.com) • [EduDAO](https://edudao.io) • [Oxford Blockchain](https://www.oxfordblockchain.xyz) | Oxford Blockchain Society, EduDAO |
-| **Consensus 2025** | Attendance Confirmed | [Consensus](https://consensus2025.coindesk.com) | EduDAO |
-| **Cosmos Institute (May '25)** | Twitter Push & Media Features | [Website](https://cosmos-institute.org) • [Twitter](https://x.com/mbrendan1) | Cosmos Institute |
-| **DeFiCon NYC (June '25)** | *Decentralized AI Infrastructure* | [Event](https://deficonf.nyc) | DeFiCon |
+- **Goals**: 
+  - Open up the network to external testing
+  - Collect valuable feedback and data
+  - Ensure stability and security for all participants
 
-### 🌐 Proof of Concept Development *(Apr – May 31, 2025)*  
-- Core protocol functions for aggregation, coordination, and incentive mechanisms. (*Current)
-- Integrate EVM-compatible blockchain SC tailoring for seamless integration.  (*Current)
-- Functional PoC with 3+ validator test nodes with DeSci health dataset use case (-)
+### **Advanced Testnet - Late 2026**
+Following the initial round of testing, the **Advanced Testnet** phase will bring enhancements to network performance and additional features. During this phase, we’ll continue fine-tuning the infrastructure and adding more advanced functionalities, paving the way for the final product.
 
-## 🚧 Phase 2: Protocol Development & Early Ecosystem (June - September 2025)
+- **Goals**:
+  - Implement advanced features and optimizations
+  - Test the integration of key technologies (e.g., Layer 2, blockchain interoperability)
+  - Prepare for scaling to a global user base
 
-### 🚀 Testnet Development (June 15 - September 30, 2025)
+### **Mainnet Launch - Mid 2027**
+The launch of the **Mainnet** will mark the official, public deployment of the InfiniteZero network. This is where the network will be fully operational, open to all developers, applications, and users. The **Mainnet** launch will bring the InfiniteZero vision to life with a privacy-first, decentralized infrastructure that anyone can use.
 
-**Alpha Testnet** (By July 31, 2025)
-- Initial protocol implementation with basic functionality (-)
-- Performance goal aiming for 1–2 FL rounds/hour, <1s avg. update latency, 90%+ uptime, 50%+ FL round success rate (-)
-    
-**Beta Testnet** (By September 15, 2025)
-- Expand to 100+ validator nodes (-)
-- Performance goal of 2-5 federated learning rounds/hour, <500 ms average for federated model updates (-)
-- Initial security assessment completion by September 30, 2025 (-)
-- Target for 95%+ uptime with 80%+ success rate for federated learning rounds (-)
+- **Goals**:
+  - Officially launch the InfiniteZero Mainnet
+  - Enable decentralized AI model training and applications
+  - Open up the ecosystem for public use and adoption
 
-### 🧠 Early Data & AI Integration (July 15 - September 30, 2025)
+---
 
-**Co-development Ecosystem Partners**
-- Collaborate with SOLID (Jesse, Lead), EVM-Compatible Blockchain, Flower Labs (Javier, CSO), and OpenMined (-)
-- Target: Secure 5+ strategic partnerships by September 30, 2025 (-)
+## Looking Ahead
 
-### 🧑‍💻 Community Building (June 15 – September 30, 2025)
+The road to building a **trustless**, **privacy-preserving** AI ecosystem is long and filled with exciting challenges. We are focused on creating a **secure**, **scalable**, and **inclusive** platform that works for **everyone**—developers, users, and the community.
 
-- Grow to 100+ active developers, 8,000+ social followers, and 500+ testnet participants  (-)
-- Run 2 workshops (DeSci/ETHGlobal), bi-weekly dev office hours, and launch incentive bounties (July 15) (-)
-- Host Encode Club hackathon (Sep 1–15) with 300+ attendees and 50+ completed projects (-)
+Stay tuned for updates and get involved at each stage as we move closer to the full launch of InfiniteZero!
 
-## 🧩 Phase 3: Ecosystem Growth & Mainnet Preparation (October 2025 - February 2026)
+---
 
-### 🧱 Advanced Testnet Deployment (Oct 1 – Dec 15, 2025)
-
-- Advanced Testnet Uptime: 95%+ (Target: 98%) (-) 
-- Launch feature-complete testnet with 500+ nodes, 95% uptime, and 80%+ developer satisfaction (-) 
-- Bi-weekly performance releases and support for 10+ concurrent FL models (-)
-- Run stress testing (Nov 15–Dec 15) with 1,000+ virtual nodes, targeting 99% network stability (-)
-- FL Model Support: 10+ concurrent models (Target: 15+) (-)
-- Network Stability Under Load: 99% (Target: 99.5%) (-)
-
-### 🛡️ Staking & Governance Implementation (Oct 15 – Jan 15, 2026)
-
-- Launch testnet validator staking with 100+ active validators and deploy staking system (-)
-- Finalize token economic model and achieve 100% consensus by Jan 15, 2026 (-)
-- Implement 5+ community governance proposals with 80%+ approval rate by Jan 30, 2026 (-)
-
-### 🔐 Protocol Hardening & Security (Nov 1, 2025 – Jan 31, 2026)
-
-- Complete 3 security audits, resolve all critical vulnerabilities by Jan 31, 2026 (-)
-- Optimize performance with 2.5x throughput improvement   (-)
-- Launch $250K bug bounty, resolve 90% of high-priority bugs with 100+ security researchers (-)
-- Achieve 100% protocol stability for mainnet transition by Jan 31, 2026 (-)
-
-### ⚙️ Advanced User Experience & Developer Tools (Q4 2025 – Q1 2026)
-
-- Complete API documentation, validator setup guide, and FL model integration by Dec 31, 2025 (-)
-- Release Python, JavaScript, and Rust SDKs, CLI tool for validator management, and VS Code extension by Jan 31, 2026 (-)  
-- Target: 95%+ documentation coverage and 500+ SDK downloads by Jan 31, 2026 (-)
-
-### 🤝 Strategic Partnerships (Q4 2025 – Q1 2026)
-
-**Key Partnerships & Community Activatio**
-- Decentralized AI/FL & Data: GoKiteAI, Sentient Foundation, Protocol Labs, AGI Alliance, Vana/Ora/Sherpa.ai (-)
-- Target: Secure 10+ strategic EVM/AI partnerships by January 2026 (-)
-- Host 2 Encode Club hackathons (October '25, January '26) (-)
-- Drive DeSci collaborations on data sovereignty (-)
-- Target: 200+ participants at each hackathon and 5+ cross-protocol integrations (-)
-
-### 💎 TGE Preparation & Token Launch (Q1 2026)
-
-- Token launch and distribution from Feb 1-15, 2026 (-)
-- Airdrop to 500+ validators, 100+ data providers, and 200+ developers based on contribution (-)
-- Target: 5,000+ initial token holders, DEX listing at launch, 2+ tier-1 exchange listings by Feb 28, 2026 (-) 
-
-## 🚀 Phase 4: Mainnet Deployment & Decentralization (Q1-Q2 2026)
-
-### 🌐 Mainnet Launch (January 1 - March 31, 2026)
-
-- Phased deployment of critical infrastructure (Jan 15, 2026), core functionality (Feb 15, 2026), and full feature set (Mar 31, 2026) (-)
-- Target: Achieve 100% uptime, 1,200+ active validators, 25% monthly growth in transaction volume, and 75+ federated learning models deployed by Mar 31, 2026 (-) 
-- Finalize network fee structure: 70% to validators, 20% to treasury, 10% to public goods by Mar 31, 2026 (-)
-
-### ⚖️ Governance & Ownership Decentralization (Q1-Q2 2026)
-
-- Establish DAO and implement governance framework by February 2026 (-)
-- Launch first community improvement proposals by March 2026 (-)
-- Transfer 75% of protocol control to DAO by June 30, 2026 (-)
-- Target: Secure 85% DAO control, implement value accrual mechanisms, and maintain positive growth in token utility metrics. (-)
-
-### 🤖 Federated AI for Impactful Global Ecosystems (Q1–Q2 2026)
-
-- Onboard 500+ active data ecosystems across sectors ( DeSci, Healthcare, DePIN, Smart Cities, Agritech, Etc) by June 30, 2026 (-)
-- Achieve 10% monthly growth in engagement and secure 5+ key partnerships by June 30, 2026 (-)
-- Launch 2+ private enterprise side chains and expand mainnet implementations by June 30, 2026 (-)
-
-### 💰 Token Economics & Value Accrual (Throughout 2026)
-
-- Launch delegated proof of stake (DPoS) pools to reward token holders, enhancing network security and liquidity by June 30, 2026. (-)
-- Achieve sustainable tokenomics with network useage driving protocol fees utility value by June 30, 2026 (-)
-- Implement quarterly buyback & burn program by Q2 2026 with regular reporting of network revenue metrics (-)
-- Launch delegated proof of stake (DPoS) pools to reward token holders, enhancing network security and liquidity. (-)
-  
-### 🌱 Long-Term Sustainability Strategy (Q1-Q2 2026)
-
-- Ensure a 5+ year runway with a diversified multi-sig treasury (Foundation+DAO) and asset mix (stables/ETH/BTC) by Q2 2026 (-)
-- Achieve balanced revenue streams from network fees, enterprise partnerships, marketplace commissions, and private-chain enterprise services, with no source revenue exceeding 50% by Q2 2026 (-)
-- Build a self-sustaining ecosystem with 80% community governance, quadratic funding for grants, and 10+ regional ambassadors by Q2 2026 (-)
-
+© 2025 InfiniteZero Foundation 🌱  
+Building a better future for AI.
