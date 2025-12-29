@@ -1,92 +1,70 @@
 ---
 title: Research  
 layout: page  
-description: Explore how decentralized AI and data ecosystems are transforming industries through DIN’s research.  
-intro_image_hide_on_mobile: true  
+description: Explore the cutting-edge research and innovation driving InfiniteZero’s mission to shape the future of AI for the public good.  
+intro_image_hide_on_mobile: true
 ---
 
-# Research & Collaboration
+# Research at InfiniteZero
 
-DIN was born from rigorous academic research, starting in the **Oxford Computer Science Department** and later presented at **UC Berkeley’s Research in Decentralized Intelligence (RDI)**. We’re committed to advancing decentralized AI, federated learning, and data sovereignty through deep, interdisciplinary research. Our vision is to work collaboratively with academic communities, research institutions, and industry leaders to tackle the complex challenges of privacy, data sharing, and scalable AI systems.
-
----
-
-## Our Research Journey
-
-Our journey began in the **Oxford Computer Science Department**, where we explored novel ways to decentralize AI learning and preserve data sovereignty. Building on this foundation, we presented our **white paper (v1)** at **UC Berkeley’s RDI**, showcasing the potential for decentralized federated learning and the integration of blockchain technology to create privacy-preserving AI ecosystems.
-
-### Key Research Areas:
-- **Decentralized Federated Learning**: Exploring methods for secure, scalable machine learning where data remains distributed across participants without compromising privacy.
-- **Data Sovereignty**: Ensuring that individuals maintain full control over their data in a decentralized context, supported by secure encryption techniques.
-- **Blockchain for AI**: Leveraging blockchain technology to create transparent, immutable systems that facilitate decentralized collaboration between AI developers and data owners.
-- **Privacy-Preserving Techniques**: Integrating cutting-edge cryptographic methods such as homomorphic encryption, secure multi-party computation (MPC), and zero-knowledge proofs (ZKPs) to ensure data privacy while enabling collaboration.
+At InfiniteZero, we are committed to pushing the boundaries of AI research to build a **trustless**, **privacy-preserving**, and **community-governed** AI infrastructure. Our research efforts are focused on creating ethical, scalable, and innovative solutions that empower individuals and communities, making AI more accessible, sustainable, and secure for everyone.
 
 ---
 
-## Open to Collaboration
+## Key Areas of Research
 
-At DIN, we believe that collaboration is key to solving the pressing challenges in AI and decentralized systems. We welcome partnerships and collaboration with **academic researchers**, **universities**, and **industry experts**. Whether you are interested in joint research initiatives, conducting experiments, or contributing to our open-source projects, we invite you to join us in advancing the field of decentralized AI.
+### 1. **Privacy-Preserving AI**  
+At the core of our mission is the development of AI that respects user privacy. We are exploring new methods for **on-device learning** and **encrypted pattern sharing** that allow AI models to improve without compromising user data. This ensures that the future of AI doesn’t come at the cost of personal privacy.
 
-### Collaboration Opportunities:
-- **Joint Research Projects**: Partner with us to explore new ideas in federated learning, decentralized systems, and privacy preservation.
-- **Academic Papers & Publications**: Collaborate on papers, articles, and case studies that showcase the benefits and challenges of decentralized AI technologies.
-- **Technical Development**: Contribute to our open-source platform by collaborating on new features, optimizations, or integration with other research and technologies.
-- **Grants & Funding**: If you're involved in research funding, we welcome opportunities to apply for grants that support academic and technical projects related to decentralized AI and data privacy.
+### 2. **Decentralized AI Infrastructure**  
+We are leading the way in building AI systems that are **community-owned** and **decentralized**. Our research into blockchain and Layer 2 networks allows us to create systems where no central authority controls the AI models. This helps ensure transparency, fairness, and resilience in AI-driven economies.
 
----
+### 3. **Scalability and Efficiency**  
+To make AI accessible to all, we are researching lightweight AI models and methods that enable **edge computing**. By optimizing AI to run on **local devices** (e.g., smartphones, laptops, even Raspberry Pi), we can drastically reduce the need for expensive hardware and centralized infrastructure, making AI more efficient and affordable for everyone.
 
-## Our Research Impact
-
-Our research has already had a significant impact on both the academic and industry landscapes. We aim to provide a robust, scalable framework for AI development and data collaboration, enabling secure, decentralized ecosystems for privacy-respecting AI applications.
-
-### Key Outcomes:
-- **Scalable Decentralized AI Models**: Proven methods for training AI models without transferring sensitive data.
-- **Data Ownership & Control**: Pioneering systems where individuals retain control over their data, with built-in incentives for participation.
-- **New Cryptographic Techniques**: Advancement in cryptographic techniques such as secure aggregation and privacy-preserving protocols.
-- **Cross-Disciplinary Impact**: Bridging the gap between blockchain technology, federated learning, and AI to build robust privacy-preserving ecosystems.
+### 4. **Open-Source AI Commons**  
+As part of our commitment to inclusivity, we are researching frameworks for open-source AI that benefits the global community. Our goal is to create a public, accessible repository of AI models, data, and tools that anyone can contribute to and use, helping accelerate innovation while ensuring AI models remain **open** and **transparent**.
 
 ---
 
-## Join Our Research Network
+## Notable Research Achievements
 
-We invite researchers, academic institutions, and students to join us in pushing the boundaries of what is possible in decentralized AI. If you're interested in collaborating on research projects, presenting findings, or contributing to ongoing developments, we’d love to hear from you.
+### **Edge City 002 Developer Grant**  
+In 2025, InfiniteZero was awarded the **Edge City 002 Developer Grant** worth $40,000, supported by the **SHIFT Grants** initiative. This funding is helping us expand our research and accelerate the development of our **privacy-first AI infrastructure**.
 
-### How to Get Involved:
-- 📚 **Explore Our White Papers**: Start by reading our [White Paper v1](https://DIN.github.io/whitepaper) for an in-depth look at our research and vision.
-- 📝 **Contact Us for Collaboration**: Reach out to us at [research@DIN.org](mailto:research@DIN.org) to discuss potential research opportunities and collaborations.
-- 💻 **Contribute to Our Open-Source Project**: Check out our [GitHub repository](https://github.com/DIN) for ongoing research-driven development.
+[Read More About the Grant](#)
 
-We look forward to building a strong academic network focused on decentralized intelligence, privacy-preserving AI, and the future of data sovereignty.
+### **Cosmos Institute Award**  
+InfiniteZero received the **Cosmos Institute Award** ($5,000) for early-stage development in AI ethics and decentralization. This recognition highlights the importance of **ethical AI** in today’s technology landscape, reinforcing our commitment to building AI for the public good.
 
----
+[Explore the Award](#)
 
-## Upcoming Events & Presentations
+### **Academic Recognition**  
+Our research has been recognized by leading academic institutions, including **MIT**, **Oxford University**, and **the Ethereum Foundation**. We’ve collaborated with top researchers to explore new models of decentralized, privacy-respecting AI that can be used across industries like healthcare, education, and finance.
 
-We regularly participate in academic conferences, workshops, and industry events to share our research and collaborate with thought leaders in AI, blockchain, and decentralized systems.
-
-- 📅 [DefiConf NYC](https://deficonf.nyc): Join us at DefiConf NYC for discussions on decentralized finance, blockchain, and AI.
-- 🎤 **RDI at UC Berkeley**: Watch for upcoming talks and paper presentations where we showcase our latest research and findings.
+[View Our Research Papers](#)
 
 ---
 
-## Our Research Team
+## Join the Research Movement
 
-DIN's research team is composed of experts in **AI**, **blockchain**, **cryptography**, and **distributed systems**. Our team continues to work closely with academic leaders from top universities, ensuring that our projects remain on the cutting edge of technological advancement.
+InfiniteZero is built on the idea that **everyone** should have the ability to contribute to AI innovation, regardless of background or resources. If you’re a researcher, developer, or AI enthusiast, we invite you to join us in advancing the future of ethical, community-driven AI.
 
-### Research Partners:
-- Oxford University
-- UC Berkeley RDI
-- Leading AI and Blockchain Research Institutions
+- **Contribute to Open-Source Research**: Share your research, models, and data with the community to help improve AI.
+- **Collaborate with Leading Researchers**: Join forces with a global network of academic institutions and AI professionals working to reshape the future.
+- **Stay Informed**: Follow our latest publications, white papers, and research updates to stay on the cutting edge of AI research.
+
+[Get Involved](#) | [Contact Us](mailto:abrahamnash@protonmail.com)
 
 ---
 
-## Let’s Shape the Future Together!
+## Why Research Matters
 
-Whether you’re an academic, researcher, or institution looking to collaborate, DIN is committed to advancing the state of decentralized AI and privacy-preserving technologies. Let’s work together to push the boundaries of what’s possible.
+AI has the potential to transform society in powerful ways, but only if it is developed ethically and with a focus on the **public good**. Our research at InfiniteZero aims to ensure that AI is accessible, private, and open to everyone, while fostering transparency and trust.
 
-### Get In Touch:
-- 📧 [Email Us for Collaboration](mailto:research@DIN.org)
-- 💻 [Explore Our Research on GitHub](https://github.com/DIN)
-- 📚 [Read Our White Paper](https://DIN.github.io/whitepaper)
+Through **collaborative research** and **community-driven development**, we are building a future where AI works for **everyone**, not just a select few.
 
-Join us in building a decentralized, privacy-preserving future for AI.
+---
+
+© 2025 InfiniteZero Foundation 🌱  
+Leading the way in ethical, privacy-first AI research for the future.
